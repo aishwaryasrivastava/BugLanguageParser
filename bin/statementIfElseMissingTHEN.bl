@@ -1,0 +1,7 @@
+IF next-is-wall 
+move
+turnright
+ELSE
+infect
+skip
+END IF

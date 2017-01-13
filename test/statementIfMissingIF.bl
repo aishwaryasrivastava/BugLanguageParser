@@ -1,0 +1,4 @@
+next-is-wall THEN
+move
+turnright
+END IF

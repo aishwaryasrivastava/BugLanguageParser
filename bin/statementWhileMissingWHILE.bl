@@ -1,0 +1,4 @@
+next-is-wall DO
+    turnright
+    move
+    END WHILE

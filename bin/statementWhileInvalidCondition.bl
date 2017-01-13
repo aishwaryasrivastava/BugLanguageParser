@@ -1,0 +1,4 @@
+WHILE next-is-not-bug DO
+    move
+    turnleft
+END WHILE

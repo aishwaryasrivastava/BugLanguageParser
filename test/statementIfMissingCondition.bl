@@ -1,0 +1,5 @@
+IF THEN
+move
+turnright
+skip
+END IF

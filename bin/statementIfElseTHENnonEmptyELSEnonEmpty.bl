@@ -1,0 +1,5 @@
+IF next-is-empty THEN
+move
+ELSE
+turnright
+END IF

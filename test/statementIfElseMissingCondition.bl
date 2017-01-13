@@ -1,0 +1,7 @@
+IF THEN
+infect
+skip
+turnright
+ELSE
+skip
+END IF

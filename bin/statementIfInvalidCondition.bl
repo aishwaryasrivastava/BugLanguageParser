@@ -1,0 +1,5 @@
+IF next-is-bug THEN
+turnleft
+turnright
+move
+END IF

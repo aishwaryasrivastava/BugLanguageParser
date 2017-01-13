@@ -1,0 +1,4 @@
+IF next-is-empty THEN
+move
+ELSE
+END IF

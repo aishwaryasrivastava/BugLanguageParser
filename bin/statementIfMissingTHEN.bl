@@ -1,0 +1,5 @@
+IF next-is-wall
+turnleft
+turnright
+move
+END IF

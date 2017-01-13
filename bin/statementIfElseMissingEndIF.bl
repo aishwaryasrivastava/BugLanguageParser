@@ -1,0 +1,7 @@
+IF next-is-enemy THEN
+infect
+skip
+turnright
+ELSE
+skip
+END 

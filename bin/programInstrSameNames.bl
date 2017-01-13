@@ -1,0 +1,27 @@
+PROGRAM Test IS
+
+  INSTRUCTION four IS
+     move
+     turnleft
+  END four
+  
+  INSTRUCTION four IS
+    move
+    IF next-is-not-empty THEN
+      turnleft
+    ELSE
+      turnleft
+    END IF
+  END four
+
+BEGIN
+  infect
+  WHILE true DO
+    four
+    IF next-is-empty THEN
+      move
+    END IF
+    four
+    four
+  END WHILE
+END Test

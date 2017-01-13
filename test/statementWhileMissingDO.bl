@@ -1,0 +1,4 @@
+WHILE next-is-empty 
+    move
+    turnleft
+END WHILE
